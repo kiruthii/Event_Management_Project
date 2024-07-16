@@ -80,7 +80,8 @@ For more details, users can contact:
 
 ## Screenshots
 
-![Screenshot of Event Management Page](img/screenshot.png)
+![image](https://github.com/user-attachments/assets/9324e1cc-ae7a-4fc4-9b72-6ae3ea0385b3)
+
 
 ## License
 
